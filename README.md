@@ -10,12 +10,10 @@
 <h2> Features </h2>
 <ul> 
 
-<li> Text Conversion  </li>
+<li> Text Conversion (from Uppercase to Lowercase & vice-versa)  </li>
   
   <li>  Copy Text  </li>
   <li> Clear Text  </li>
-  
-  <li>  Copy Text </li>
   
  <li>   Dark Mode and Light Mode feature  </li>
 </ul>
