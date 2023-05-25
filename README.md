@@ -1,1 +1,1 @@
-<strong>  TextPlay </strong>
+ <p align="center"> <strong>  TextPlay </strong> </p>  
